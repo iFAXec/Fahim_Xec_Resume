@@ -83,6 +83,16 @@ body {
   padding-top: 1.5rem;
 }
 
+.contact-info a{
+  color:#f7f7f7;
+  text-decoration: none;
+}
+
+.contact-info a:hover{
+  cursor: pointer;
+  color: tomato;
+}
+
 li i{
   margin-right: 10px;
   color: #2d9ddb;
