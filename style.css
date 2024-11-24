@@ -137,7 +137,7 @@ li i {
 .right-main-content {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .last-para {
